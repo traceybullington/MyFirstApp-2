@@ -17,7 +17,7 @@ struct ContentView: View {
                 Image("groundcherry2")
                     .resizable(resizingMode: .stretch)
                     .aspectRatio(contentMode: .fit)
-                    .padding(.horizontal, 80.0)
+                    .padding(.horizontal, 70.0)
                     .background(Color.orange)
                     .clipShape(Circle())
                 
